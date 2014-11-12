@@ -1,0 +1,10 @@
+{
+  "name": "OnePlusClaimBot",
+  "version": "0.0.1",
+  "description": "A bot to fetch a oneplus invite from twitter",
+  "dependencies": {
+    "express": "^4.9.7",
+    "socket.io": "^1.1.0",
+    "twit": "^1.1.18"
+  }
+}
